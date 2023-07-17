@@ -320,6 +320,10 @@ footer{
 		display: none}
 }
 
+li.contato{
+	display: none;
+}
+
 
 
 @media screen and (max-width: 1024px){
@@ -330,7 +334,7 @@ footer{
 		max-width: 80%;
 		margin-top: 40px;
 		float: right;
-		margin-right: 60px;
+		margin-right: 45px;
 
 	}
 	div.container > .sobre-container{
@@ -422,6 +426,4 @@ section.header-master{
 
 
 
-
-
-
+;
