@@ -220,7 +220,7 @@ section.depoimento h2{
 
 }
 section.depoimento p{
-	;
+	
 	font-size: 15px;
 }
 
@@ -320,7 +320,27 @@ footer{
 		display: none}
 }
 
+
+
 @media screen and (max-width: 1024px){
+	.sobre-container h2{
+	 margin-top: 10%;
+	}
+	div.container > .sobre-container img{
+		max-width: 80%;
+		margin-top: 40px;
+		float: right;
+		margin-right: 60px;
+
+	}
+	div.container > .sobre-container{
+		float: left;
+		width: 100%;
+		
+	
+	}
+	
+
 	.etapas__group{
 		margin: 40px 0;
 	}
@@ -398,7 +418,8 @@ section.header-master{
 	min-height: 400px;
 }
 
-}
+
+
 
 
 
